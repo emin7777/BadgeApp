@@ -1,0 +1,15 @@
+C:\Users\Emin\source\repos\LocalDataBaseAppp\LocalDataBaseAppp\bin\Release\LocalDataBaseAppp.exe.config
+C:\Users\Emin\source\repos\LocalDataBaseAppp\LocalDataBaseAppp\bin\Release\LocalDataBaseAppp.exe
+C:\Users\Emin\source\repos\LocalDataBaseAppp\LocalDataBaseAppp\bin\Release\LocalDataBaseAppp.pdb
+C:\Users\Emin\source\repos\LocalDataBaseAppp\LocalDataBaseAppp\bin\Release\EntityFramework.dll
+C:\Users\Emin\source\repos\LocalDataBaseAppp\LocalDataBaseAppp\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Emin\source\repos\LocalDataBaseAppp\LocalDataBaseAppp\bin\Release\EntityFramework.xml
+C:\Users\Emin\source\repos\LocalDataBaseAppp\LocalDataBaseAppp\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Emin\source\repos\LocalDataBaseAppp\LocalDataBaseAppp\obj\Release\LocalDataBaseAppp.csprojAssemblyReference.cache
+C:\Users\Emin\source\repos\LocalDataBaseAppp\LocalDataBaseAppp\obj\Release\LocalDataBaseAppp.Form1.resources
+C:\Users\Emin\source\repos\LocalDataBaseAppp\LocalDataBaseAppp\obj\Release\LocalDataBaseAppp.Properties.Resources.resources
+C:\Users\Emin\source\repos\LocalDataBaseAppp\LocalDataBaseAppp\obj\Release\LocalDataBaseAppp.csproj.GenerateResource.cache
+C:\Users\Emin\source\repos\LocalDataBaseAppp\LocalDataBaseAppp\obj\Release\LocalDataBaseAppp.csproj.CoreCompileInputs.cache
+C:\Users\Emin\source\repos\LocalDataBaseAppp\LocalDataBaseAppp\obj\Release\LocalDataBaseAppp.csproj.CopyComplete
+C:\Users\Emin\source\repos\LocalDataBaseAppp\LocalDataBaseAppp\obj\Release\LocalDataBaseAppp.exe
+C:\Users\Emin\source\repos\LocalDataBaseAppp\LocalDataBaseAppp\obj\Release\LocalDataBaseAppp.pdb
